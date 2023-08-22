@@ -1,4 +1,5 @@
 Titanic Dataset Analysis
+
 The Titanic dataset is one of the most renowned datasets in the data science community. It contains demographic and travelling information for 891 of the Titanic's passengers, and the goal is often to predict passenger survival based on other attributes.
 
 Overview
